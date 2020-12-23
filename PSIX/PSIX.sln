@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PSIX", "PSIX\PSIX.pyproj", "{E69A4F24-25F9-4893-96B7-0A8B64CBFC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69A4F24-25F9-4893-96B7-0A8B64CBFC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69A4F24-25F9-4893-96B7-0A8B64CBFC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D83218D-4353-4750-8007-4716596D5EC9}
+	EndGlobalSection
+EndGlobal
